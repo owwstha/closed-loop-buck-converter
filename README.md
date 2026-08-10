@@ -1,7 +1,7 @@
 # Closed-Loop Buck Converter
 
 ## Overview & Objectives
-The goal of this project was to design and implement a regulated DC-DC step-down converter capable of maintaining a constant output voltage despite fluctuations in input voltage or load resistance using a feedback control loop. 
+The goal of this project was to design and implement a regulated DC-DC step-down converter capable of maintaining a constant output voltage using a feedback control loop. 
 
 ## Technical Details
 * Designed a Buck topology using a MOSFET switch, power inductor, diode, and output capacitor.
